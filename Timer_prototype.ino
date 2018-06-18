@@ -1,3 +1,7 @@
+/**
+ * @Author Orden Aitchedji
+ */
+
 unsigned long start, finished, elapsed;
 int start_bro = 1;
 
